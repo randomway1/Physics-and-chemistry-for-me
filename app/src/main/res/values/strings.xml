@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Физика и химия</string>
+    <string name="welcome_title">7–9 классы</string>
+    <string name="learn_card_title">Теория и задачи</string>
+</resources>
